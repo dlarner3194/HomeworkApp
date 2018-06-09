@@ -1,0 +1,11 @@
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\bin\Debug\netcoreapp2.0\HomeworkApp.Web.deps.json
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\bin\Debug\netcoreapp2.0\HomeworkApp.Web.runtimeconfig.json
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\bin\Debug\netcoreapp2.0\HomeworkApp.Web.runtimeconfig.dev.json
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\bin\Debug\netcoreapp2.0\HomeworkApp.Web.dll
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\bin\Debug\netcoreapp2.0\HomeworkApp.Web.pdb
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\obj\Debug\netcoreapp2.0\HomeworkApp.Web.csprojAssemblyReference.cache
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\obj\Debug\netcoreapp2.0\HomeworkApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\obj\Debug\netcoreapp2.0\HomeworkApp.Web.AssemblyInfoInputs.cache
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\obj\Debug\netcoreapp2.0\HomeworkApp.Web.AssemblyInfo.cs
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\obj\Debug\netcoreapp2.0\HomeworkApp.Web.dll
+C:\Users\Daniel Larner\source\repos\HomeworkApp\HomeworkApp.Web\obj\Debug\netcoreapp2.0\HomeworkApp.Web.pdb
